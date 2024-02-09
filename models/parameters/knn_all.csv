@@ -1,0 +1,9 @@
+,weights,p,n_neighbors,metric,leaf_size,algorithm,k
+0,distance,1,20,minkowski,10,kd_tree,1
+1,distance,2,52,manhattan,40,brute,2
+2,distance,1,55,minkowski,30,kd_tree,3
+3,distance,1,15,minkowski,10,ball_tree,4
+4,distance,1,24,manhattan,30,ball_tree,5
+5,distance,2,18,manhattan,10,auto,6
+6,distance,1,22,minkowski,10,kd_tree,7
+7,distance,1,22,minkowski,10,auto,8
