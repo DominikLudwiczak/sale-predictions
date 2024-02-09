@@ -1,0 +1,9 @@
+,n_estimators,min_samples_split,min_samples_leaf,max_features,max_depth,criterion,k
+0,100,10,1,sqrt,,absolute_error,1
+1,100,10,1,sqrt,20,absolute_error,2
+2,50,10,1,sqrt,20,absolute_error,3
+3,50,5,2,sqrt,,absolute_error,4
+4,100,5,1,log2,15,absolute_error,5
+5,200,5,1,log2,,poisson,6
+6,200,10,1,log2,20,squared_error,7
+7,500,10,1,log2,20,poisson,8
